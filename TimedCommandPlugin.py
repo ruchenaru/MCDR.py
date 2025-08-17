@@ -13,7 +13,7 @@ PLUGIN_METADATA = {
     'name': '定時命令插件',
     'description': '一個用於在Minecraft 1.12.2中定時執行命令的插件',
     'author': 'ChenRu',
-    'link': 'https://github.com/ruchenaru',
+    'link': 'https://github.com/ruchenaru/MCDR.py',
     'dependencies': { 
         'mcdreforged': '>=2.0.0'
     }
